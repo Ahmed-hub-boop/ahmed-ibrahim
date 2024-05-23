@@ -35,5 +35,10 @@ let progs = [
         name: "Facebook",
         img_src: "proj media/Capture-7.PNG",
         prog_link: "##"
+    },
+    {
+        name: "OTC",
+        img_src: "proj media/Capture-8.PNG",
+        prog_link: "##"
     }
 ]
